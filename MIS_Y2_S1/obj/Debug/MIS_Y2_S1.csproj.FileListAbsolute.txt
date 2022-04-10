@@ -1,0 +1,55 @@
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe.config
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.pdb
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.AssemblyReference.cache
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLogin.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.Properties.Resources.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.GenerateResource.cache
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.CoreCompileInputs.cache
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.exe
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.pdb
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmMain.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLstView.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe.config
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.pdb
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.AssemblyReference.cache
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLstView.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLogin.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmMain.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.Properties.Resources.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.GenerateResource.cache
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.CoreCompileInputs.cache
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.exe
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.pdb
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLstBox.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmdgvStudent.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmdgvStudent.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLstBox.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.SuggestedBindingRedirects.cache
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmEditStud.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmProducts.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmEditProduct.resources
+D:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmdeleteProduct.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.SuggestedBindingRedirects.cache
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmdeleteProduct.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmEditProduct.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmeditStud.resources
+E:\C# PJ Visual Studio\Mid-Term-Projects\MIS_Y2_S1\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmProducts.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.AssemblyReference.cache
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmdgvStudent.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmLogin.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmMain.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.Properties.Resources.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.GenerateResource.cache
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.csproj.CoreCompileInputs.cache
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.exe
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.pdb
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe.config
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.exe
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\bin\Debug\MIS_Y2_S1.pdb
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmTableLayoutPanel.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.ProductControls.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmTableLayoutPanelGetFile.resources
+C:\Users\TanaUK\Desktop\MIS-Y2-S1-Final\MIS_Y2_S1\obj\Debug\MIS_Y2_S1.frmViewOrders.resources

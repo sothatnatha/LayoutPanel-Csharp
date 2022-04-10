@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd5ed303-ddbc-4313-8fdb-33ce74698d36": {
+      "ProjectGuid": "cd5ed303-ddbc-4313-8fdb-33ce74698d36",
+      "DisplayName": "MIS_Y2_S1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
